@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/单例模式/单例模式.iml" filepath="$PROJECT_DIR$/单例模式/单例模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/原型模式/原型模式.iml" filepath="$PROJECT_DIR$/原型模式/原型模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/构造者模式/构造者模式.iml" filepath="$PROJECT_DIR$/构造者模式/构造者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/策略模式/策略模式.iml" filepath="$PROJECT_DIR$/策略模式/策略模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式.iml" filepath="$PROJECT_DIR$/设计模式.iml" />
+    </modules>
+  </component>
+</project>
